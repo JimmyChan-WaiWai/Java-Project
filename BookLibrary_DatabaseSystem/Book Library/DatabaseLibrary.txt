@@ -1,0 +1,4 @@
+0132222205<#Title:>Java How to Program<#Available:>False<#Path:>C:\Users\chanc\Desktop\Lab2\img\b798d8f4bd.jpg<#Queue:>GG;
+0131857576<#Title:>C++ How to Program<#Available:>False<#Path:>C:\Users\chanc\Desktop\Lab2\img\006V9XSCgy1ghdet5wtcyj30iw0iwabp.jpg<#Queue:>Sam;John;Mary;
+0131450913<#Title:>HTML How to Program?<#Available:>True<#Path:>nullPath<#Queue:>
+0123456789<#Title:>Java Programming<#Available:>True<#Path:>nullPath<#Queue:>
